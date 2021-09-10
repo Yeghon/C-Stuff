@@ -1,0 +1,16 @@
+/home/yeghon/Documents/projects/c#/MysqlConnect/bin/Debug/net5.0/MysqlConnect
+/home/yeghon/Documents/projects/c#/MysqlConnect/bin/Debug/net5.0/MysqlConnect.deps.json
+/home/yeghon/Documents/projects/c#/MysqlConnect/bin/Debug/net5.0/MysqlConnect.runtimeconfig.json
+/home/yeghon/Documents/projects/c#/MysqlConnect/bin/Debug/net5.0/MysqlConnect.runtimeconfig.dev.json
+/home/yeghon/Documents/projects/c#/MysqlConnect/bin/Debug/net5.0/MysqlConnect.dll
+/home/yeghon/Documents/projects/c#/MysqlConnect/bin/Debug/net5.0/ref/MysqlConnect.dll
+/home/yeghon/Documents/projects/c#/MysqlConnect/bin/Debug/net5.0/MysqlConnect.pdb
+/home/yeghon/Documents/projects/c#/MysqlConnect/obj/Debug/net5.0/MysqlConnect.csproj.AssemblyReference.cache
+/home/yeghon/Documents/projects/c#/MysqlConnect/obj/Debug/net5.0/MysqlConnect.GeneratedMSBuildEditorConfig.editorconfig
+/home/yeghon/Documents/projects/c#/MysqlConnect/obj/Debug/net5.0/MysqlConnect.AssemblyInfoInputs.cache
+/home/yeghon/Documents/projects/c#/MysqlConnect/obj/Debug/net5.0/MysqlConnect.AssemblyInfo.cs
+/home/yeghon/Documents/projects/c#/MysqlConnect/obj/Debug/net5.0/MysqlConnect.csproj.CoreCompileInputs.cache
+/home/yeghon/Documents/projects/c#/MysqlConnect/obj/Debug/net5.0/MysqlConnect.dll
+/home/yeghon/Documents/projects/c#/MysqlConnect/obj/Debug/net5.0/ref/MysqlConnect.dll
+/home/yeghon/Documents/projects/c#/MysqlConnect/obj/Debug/net5.0/MysqlConnect.pdb
+/home/yeghon/Documents/projects/c#/MysqlConnect/obj/Debug/net5.0/MysqlConnect.genruntimeconfig.cache
